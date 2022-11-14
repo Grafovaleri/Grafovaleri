@@ -1,8 +1,7 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+## Hello! I'm Valeria Grafova and I want to be a QA Engineer 
+## Today I want to practice in Github and branch here.
+## It'll be fun, because I'll see many decisions for this.
+
 
 ## Latest Youtube Videos
 
