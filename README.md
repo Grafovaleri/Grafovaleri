@@ -3,16 +3,6 @@
 ## Today I want to practice in Github and branch here.
 
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Как написать правильный  отчёт о дефекте &lpar;баг репорт&rpar;?](https://www.youtube.com/watch?v=faWdtll7KNc)
-- [QASE - обзор TMS для тестировщика &lpar;QA&rpar;](https://www.youtube.com/watch?v=Cj6jHmsnWiU)
-- [GitHub &lpar;git&rpar; для тестировщика &lpar;QA&rpar;. Полный курс](https://www.youtube.com/watch?v=GviyJKK6yD8)
-- [Организация процесса тестирования &lpar;QA&rpar; на пальцах](https://www.youtube.com/watch?v=LoQUf0UREZ0)
-- [Портфолио для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=ORSti2aYnEE)
-<!-- YOUTUBE:END -->
-
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -31,11 +21,9 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/Grafovaleri/Test-documentation/blob/db1fb8a1ba54fe04b2d586613956bb25aa8d29e1/%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%D0%BD%D0%B0%20%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%83%D1%8E%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%83%20demo.guru99.com.xlsx)
+- [Test-Suites and Test-Cases, Bug-Reports](https://github.com/Grafovaleri/Test-documentation/blob/db1fb8a1ba54fe04b2d586613956bb25aa8d29e1/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82,%20%D1%82%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B5%20https___aliexpress.com_%20(1).xlsx)
+- [Postman Collections](https://www.postman.com/security-cosmologist-96724871/workspace/my-workspace/collection/23804976-0ed6813f-4a51-4b3c-a4eb-32306a1127da?action=share&creator=23804976)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
@@ -44,4 +32,3 @@
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
