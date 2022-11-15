@@ -1,4 +1,4 @@
-[![Header](https://github.com/Grafovaleri/Grafovaleri/blob/da87bb78211d03d94268462c75a051d2578e409a/assets/1611831579_47-p-bledno-zelenii-fon-48.jpg)]
+![Header](https://github.com/Grafovaleri/Grafovaleri/blob/da87bb78211d03d94268462c75a051d2578e409a/assets/1611831579_47-p-bledno-zelenii-fon-48.jpg)
 ## Hello! I'm Valeria Grafova and I want to be a QA Engineer 
 ## Today I want to practice in Github and branch here.
 
